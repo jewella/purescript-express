@@ -25,9 +25,8 @@
   "dependencies": {
     "purescript-foreign": "^5.0.0",
     "purescript-foreign-generic": "^7.0.0",
-    "purescript-node-http": "^5.0.0"
-  },
-  "devDependencies": {
+    "purescript-node-http": "^5.0.0",
+    "purescript-aff": "^5.0.2",
     "purescript-test-unit": "^14.0.0"
   }
 }
